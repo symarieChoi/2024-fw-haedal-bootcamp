@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 메인 브랜치에서 코드 수정
 test again
+=======
+쿠폰 브랜치에서 수정
+test again 
+>>>>>>> test
